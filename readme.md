@@ -8,4 +8,4 @@ A map showing real-time weather radar and alerts from the National Weather Servi
 I also add earthquake data into the map, markers representing for earthquake data with popup to display information. 
 
 Another map showing earthquakes from USGS.   
-<https://sophie8910.github.io/LeafletWebMap/earthquake>  
+<https://14-tr.github.io/leaflet-map-with-openstreetmap/earthquake>  

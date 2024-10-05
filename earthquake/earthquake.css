@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+html, body, #earthquakemap {
+    height: 100%;
+    width: 100%;
+}
+
+.legend {
+    background: white;
+    padding: 10px;
+    line-height: 1.5;
+    font-size: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.legend i {
+    display: inline-block;
+    width: 20px;
+    height: 10px;
+    margin-right: 5px;
+}
