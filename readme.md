@@ -10,3 +10,6 @@ Another map showing earthquakes from USGS.
 
 A map combining these two datasets with a toggle function to control layer visibility.  
 <https://14-tr.github.io/leaflet-map-with-openstreetmap/combo>
+
+A map combining these two datasets with a toggle function to control layer visibility.  
+<https://14-tr.github.io/leaflet-map-with-openstreetmap/ACHEW_Map>
